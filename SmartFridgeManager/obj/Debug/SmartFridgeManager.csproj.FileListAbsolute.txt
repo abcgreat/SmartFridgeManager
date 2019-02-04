@@ -1,0 +1,6 @@
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\obj\Debug\SmartFridgeManager.csproj.CoreCompileInputs.cache
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\bin\Debug\SmartFridgeManager.exe.config
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\bin\Debug\SmartFridgeManager.exe
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\bin\Debug\SmartFridgeManager.pdb
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\obj\Debug\SmartFridgeManager.exe
+C:\Users\bchunal\Source\Repos\SmartFridgeManager\SmartFridgeManager\obj\Debug\SmartFridgeManager.pdb
